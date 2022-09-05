@@ -1,0 +1,8 @@
+1) Numero = 1 AND Palo = 'C' AND (Color = Rojo OR Color = Azul)
+Color = Rojo AND (Number >= 10) AND (Palo = 'O' OR Palo = 'C' OR ...)
+Numero1 = Numbero2 AND Palo1 = Palo2 AND Color1 <> Color2
+Numero2 = Numero1 + 1 AND Palo1 = Palo2
+Numero1 + Numero2 = 12 AND Palo1 <> Palo2 AND Color1 <> Color2
+Numero1 <> Numero2 AND Palo1 = Palo2 AND Color1 = Color2
+
+
